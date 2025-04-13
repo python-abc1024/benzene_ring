@@ -1,0 +1,2 @@
+# py_statistics
+This is a Python library used for statistics, which includes many functions, such as plotting, obtaining data fluctuations, calculating data averages, and other commonly used statistical methods.
